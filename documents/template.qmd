@@ -1,8 +1,8 @@
 ---
 title: "Literature dissection"
 subtitle: "Spring 2026"
-author: "insert author names here"
-date: "insert date here"
+author: "Kelsey Hammond, Nina Cutner, Sofia Favela"
+date: "05-29-2026"
 format: 
   pdf:
     toc: true
@@ -29,7 +29,7 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| 19   | insert text here | insert text here | insert text here   | insert text here |
 | insert text here   | insert text here | insert text here | insert text here   | insert text here |
 | insert text here   | insert text here | insert text here | insert text here   | insert text here |
 | insert text here   | insert text here | insert text here | insert text here   | insert text here |
