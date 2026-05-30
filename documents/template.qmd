@@ -28,7 +28,7 @@ As a group:
 ## Table
 
 | Photo point number | Date of photo | Season | Direction of photo | Link to photo |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:---|:---|:---|:---|:---|
 | 19 | insert text here | insert text here | insert text here | insert text here |
 | insert text here | insert text here | insert text here | insert text here | insert text here |
 | insert text here | insert text here | insert text here | insert text here | insert text here |
@@ -38,11 +38,11 @@ As a group:
 
 8.  Describe in 5-7 sentences total:
 
-- which water year you chose to examine
-- how that water year is relevant to your study
-- which photo point you chose to examine
-- how that photo point is relevant to your study
-- what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+-   which water year you chose to examine
+-   how that water year is relevant to your study
+-   which photo point you chose to examine
+-   how that photo point is relevant to your study
+-   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
 
 # Reports or posters
 
@@ -149,7 +149,7 @@ Authors: Elliot L. Matchett, Joseph P. Fleskes
 
 Main findings (2-4 sentences): Climate change, urbanization, and changes in water management are likely to reduce waterbird habitat in California’s Central Valley over the coming decades. Planned wetland restoration can offset many of these losses through about 2065, but it becomes insufficient under most future scenarios after that point. The greatest habitat declines occur under warmer, drier climate conditions combined with reduced water availability, suggesting that additional wetland restoration and climate adaptation strategies will be needed to support waterbird populations in the future.
 
-Relevance to study (2-4 sentences): It directly links precipitation/climate change and wetland restoration to waterbird habitat in California. Finds that warmer, drier conditions significantly reduce waterbird habitat area. 
+Relevance to study (2-4 sentences): It directly links precipitation/climate change and wetland restoration to waterbird habitat in California. Finds that warmer, drier conditions significantly reduce waterbird habitat area.
 
 ### Paper 6
 
@@ -183,32 +183,32 @@ Relevance to study (2-4 sentences): It examines factors affecting waterfowl abun
 
 ### Paper 9
 
-Title:
+Title: Waterbird Use of a Urban Stormwater Wetland System in Central California, USA
 
-Authors:
+Authors: Joan M. Duffield
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): The study found that waterbird abundance and species diversity varied significantly between seasons and between a stormwater wetland and natural marsh. Diving Ducks preferred the the natural marsh, while shorebirds preferred the stormwater wetland. @duffield1986
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This is directly relevant to our study because water availability is directly tied to precipitation and linked to bird abundance. This is a very similiar relationship to the one we are analyzing. Duffield found that the areas that received the most direct stormwater, attracted the greatest waterbird use, which draws parallels from our own hypothesis.
 
 ### Paper 10
 
-Title:
+Title: Consequences of rainfall variation for breeding wetland blackbirds
 
-Authors:
+Authors: Robert J Fletcher, Jr. Rolf R Koford
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): During dry years, yellow headed blackbirds, showed a marked reduction in density and a complete reproductive failure. The failure was attributed primarily to nest predation which was negatively correlated with water levels in wetlands. [@fletcherjr.2004]
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is directly relevant to our own study because it is similiarly analyzing how rainfall variation can affect wetland bird demography. Rain is also being used to study population dynamics which is mirrors our own research.
 
 ### Paper 12
 
-Title:
+Title: The Effects of Seasonal Flooding on Seed Availability for Spring Migrating Waterfowl
 
-Authors:
+Authors: Andrew K. Greer, Bruce D. Dugger, Dave A. Graber, Mark J. Petrie
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): The main findings of this study were that fall-flooded wetlands had much greater overwinter seed loss, compared to spring flooded wetlands, meaning that there was less food available by the time spring migrants arrived. The authors recommend spring flooding for wetland managers wanting to maximize food availability for migrating fowls.[@greer2007]
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is relevant because it provides a relevant natural history background looking at how wetland water management affects food availability for waterfowls. Although NCOS is a natural system, I think the insight from the paper is still relevant looking at how wetter conditions affects foraging opportunities and ultimately that is tied to abundance. 
 
 # References
