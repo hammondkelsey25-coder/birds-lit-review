@@ -165,7 +165,7 @@ Relevance to study (2-4 sentences): This study is relevant because it demonstrat
 
 Title: The Impact of Drought on Waterbirds and Their Wetland Habitats in California’s Central Valley
 
-Authors: Climate Adaptation Science Centers
+Authors: Joseph Fleskes, Matthew Reiter
 
 Main findings (2-4 sentences): The study found that wintering waterfowl responded strongly to restored Wetlands Reserve Program sites, with bird use increasing substantially after restoration and remaining high for years. Restored wetlands were especially effective when located near flooded rice fields and in areas with high existing waterfowl abundance. These results suggest that wetland restoration is an effective strategy for increasing waterfowl habitat in California’s Central Valley.
 
