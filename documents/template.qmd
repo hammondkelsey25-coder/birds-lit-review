@@ -1,0 +1,214 @@
+---
+title: "Literature dissection"
+subtitle: "Spring 2026"
+author: "Kelsey Hammond, Nina Cutner, Sofia Favela"
+date: "05-29-2026"
+format: 
+  pdf:
+    toc: true
+bibliography: references.bib
+csl: ecology.csl
+---
+
+# Photo documentation
+
+Individually:
+
+1.  Find the document titled "Data Description: Photo Documentation of the North Campus Open Space Restoration Project".
+2.  Read about the photo documentation process.
+3.  Find 1-3 photo points relevant to your study using the ArcGIS web map.
+
+As a group:
+
+4.  Discuss which photo point to focus on based on its relevance to your study question or context.
+5.  Decide on a photo point.
+6.  Find 2-4 photos at that photo point to represent seasonal changes within a water year.
+7.  In the table below, fill in the information for each photo at the photo point.
+
+## Table
+
+| Photo point number | Date of photo | Season | Direction of photo | Link to photo |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| 19 | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+
+8.  Describe in 5-7 sentences total:
+
+- which water year you chose to examine
+- how that water year is relevant to your study
+- which photo point you chose to examine
+- how that photo point is relevant to your study
+- what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+
+# Reports or posters
+
+Individually:
+
+1.  Navigate to a. the Posters section or b. the Reports section of the collection.
+2.  Find the poster(s) or report(s) related to your project.
+
+As a group:
+
+3.  Discuss which poster or report to focus on based on its relevance to your study question or context. **Note that you only need one of either type.**
+4.  Read the poster or report.
+5.  Discuss the key insights.
+6.  Provide the information in the space below. For "Key insights" and "Relevance to your study", respond in 3-5 sentences.
+
+## Report or poster information
+
+Title: Bird Community Analysis Report 1967–2015
+
+Authors: Stahlheber, Karen A
+
+Year published: 2015
+
+Permalink: https://escholarship.org/uc/item/1sg3v19d
+
+Dataset used (likely): birds.csv
+
+Key insights: This report analyzed nearly 50 years of bird survey data (1967–2014) across wetland and upland habitats in the Goleta area to characterize bird community composition, diversity, abundance, and habitat use patterns. The study found that bird communities differed among habitat types and locations, highlighting the importance of wetland habitat characteristics in shaping local bird abundance and diversity.
+
+Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.): This report is relevant because it provides long-term baseline data on bird abundance and diversity in local wetland habitats, including areas near North Campus Open Space. Understanding historical patterns in waterbird communities helps place any observed relationships between precipitation and waterfowl abundance into a broader ecological context.
+
+# Annotated bibliography
+
+## Background
+
+You can find peer-reviewed articles by searching on Google Scholar, which is a large database of research papers, posters, and other materials.
+
+Note: while it may be tempting to use AI to provide a list of papers for you, you should *not* be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
+
+Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
+
+## Directions
+
+Individually:
+
+1.  Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
+2.  Find 4-5 papers that might be relevant based on title and what shows up in the search.
+3.  Read the abstracts of those 4-5 papers.
+4.  Decide which - if any - are actually relevant to your project. Make a note of these papers. Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
+5.  If step 4 did not yield any relevant papers, repeat steps 2-4.
+6.  Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
+
+As a group:
+
+7.  Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
+8.  Fill in the template for an annotated bibliography below.
+9.  In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
+
+### Paper 1
+
+Title: Trends in abundance of wintering waterbirds relative to rainfall patterns at a central California estuary, 1972-2015
+
+Authors: Lynne E. Stenzel and Gary W. Page
+
+Main findings (2-4 sentences): They found that it was more common than not to find a trend between abundance and rainfall. 14 of the 19 taxa sampled were found to have a negative relationship between species abundance and the current year's precipitation. A negative relationship between species abundance and the previous year's precipitation was more common than positive. [@stenzel2011]
+
+Relevance to study (2-4 sentences): This paper is relevant to our study because we are focusing on how precipitation affects waterfowl abundance at NCOS. The paper focuses on waterbirds which is similar to waterfowl, just more broad. This paper also found results similar to what we found.
+
+### Paper 2
+
+Title: Habitat quality and drought effects on breeding mallard and other waterfowl populations in California, USA
+
+Authors: Sharon N. Kahara, Daniel Skalos, Buddhika Madurapperuma, Kaitlyn Hernandez
+
+Main findings (2-4 sentences): This study found that drought and habitat quality had an effect on waterfowl population. Drought proved to be one of the most influential factor on waterfowl abundance. It found that generally, drought decreased population in some regions but not in all, finding that in some areas it increased. [@kahara2021a]
+
+Relevance to study (2-4 sentences): This is relevant to our study because drought is closely tied to precipitation. While this is in central California, the influence of drought on population may be seen in our study.
+
+### Paper 3
+
+Title: Forecasting waterfowl population dynamics under climate change – Does the spatial variation of density dependence and environmental effects matter?
+
+Authors: Qing Zhao, Emily Silverman, Kathy Fleming, G. Scott Boomer
+
+Main findings (2-4 sentences): [@zhao2016]
+
+Relevance to study (2-4 sentences):
+
+### Paper 4
+
+Title: The effect of climate change on optimal wetlands and waterfowl management in Western Canada
+
+Authors: Patrick Withey, G. Cornelis van Kooten,
+
+Main findings (2-4 sentences): [@withey2011]
+
+Relevance to study (2-4 sentences):
+
+### Paper 5
+
+Title: Projected Impacts of Climate, Urbanization, Water Management, and Wetland Restoration on Waterbird Habitat in California’s Central Valley
+
+Authors: Elliot L. Matchett, Joseph P. Fleskes
+
+Main findings (2-4 sentences): Climate change, urbanization, and changes in water management are likely to reduce waterbird habitat in California’s Central Valley over the coming decades. Planned wetland restoration can offset many of these losses through about 2065, but it becomes insufficient under most future scenarios after that point. The greatest habitat declines occur under warmer, drier climate conditions combined with reduced water availability, suggesting that additional wetland restoration and climate adaptation strategies will be needed to support waterbird populations in the future.
+
+Relevance to study (2-4 sentences): It directly links precipitation/climate change and wetland restoration to waterbird habitat in California. Finds that warmer, drier conditions significantly reduce waterbird habitat area. 
+
+### Paper 6
+
+Title: Long-Term Changes in the Abundance of Benthic Foraging Birds in a Restored Wetland
+
+Authors: Lucas Mander, Luca Scapin, Rodney M. Foster, Chris B. Thaxter, Niall H. K. Burton
+
+Main findings (2-4 sentences): The study found that managed realignment successfully created new intertidal habitat that initially supported increasing numbers of waterbirds. However, as sediment accumulated and site elevations increased over time, the abundance of several waterbird species declined. These results suggest that while habitat restoration can benefit waterbirds, long-term environmental changes can affect habitat suitability and should be considered in restoration planning.
+
+Relevance to study (2-4 sentences): This study is relevant because it demonstrates how changes in wetland habitat conditions can influence waterbird abundance over time. Since precipitation affects water levels, flooding extent, and habitat availability at North Campus Open Space, it may similarly shape the abundance and distribution of waterfowl in the area.
+
+### Paper 7
+
+Title: The Impact of Drought on Waterbirds and Their Wetland Habitats in California’s Central Valley
+
+Authors: Joseph Fleskes, Matthew Reiter
+
+Main findings (2-4 sentences): The study found that wintering waterfowl responded strongly to restored Wetlands Reserve Program sites, with bird use increasing substantially after restoration and remaining high for years. Restored wetlands were especially effective when located near flooded rice fields and in areas with high existing waterfowl abundance. These results suggest that wetland restoration is an effective strategy for increasing waterfowl habitat in California’s Central Valley.
+
+Relevance to study (2-4 sentences): It evaluates how drought affects waterbird distribution, abundance, and wetland habitat timing in California. This closely mirrors our study's question.
+
+### Paper 8
+
+Title: Waterfowl–habitat associations during winter in an urban North Atlantic estuary
+
+Authors: Richard A. McKinney, Scott R. McWilliams, Michael A. Charpentier
+
+Main findings (2-4 sentences): The study found that wintering waterfowl were generally more abundant in areas with more surrounding vegetated upland habitat and less nearby residential development. Hunting activity also reduced species richness, while habitat and landscape characteristics together influenced where waterfowl were most likely to occur. These findings suggest that both local habitat conditions and broader landscape development patterns are important for waterfowl conservation in urban estuaries.
+
+Relevance to study (2-4 sentences): It examines factors affecting waterfowl abundance and species richness at an estuarine site. This provides a similar coastal wetland context to NCOS and finds that habitat characteristics and landscape composition are key drivers.
+
+### Paper 9
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 10
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 12
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+# References

@@ -1,143 +1,36 @@
-# Group project proposal
+# Literature dissection 
 
-**Spring 2026**
+Spring 2026
 
-Directions:
+# Objective
 
-- Use your work plan from class to fill in the information below.
-- Practice pulling, making changes, staging/committing/pulling/pushing to the same repo.
-- **Communicate about who is doing what throughout the entire process.**
+In class, you will explore the data documentation, posters, reports, papers, and other materials from the Cheadle Center.
 
-What you will submit on Friday the 15th:
+You will also find published papers that are relevant to your final project.
 
-- proposal: a link to your forked repository with the completed proposal in the README
-- work plan: your paper plan that you completed in class on Monday the 4th
+After completing your literature dissection as a group, you will have been able to:
 
-Use your project proposal to:
+1. describe any seasonal or annual shifts in environmental conditions at a sampling site that is relevant to your project
+2. identify datasets or surveys used in a poster/report/paper from the Cheadle Center
+3. articulate the connection between your study and other study systems or questions using peer-reviewed articles
+4. practice using citations in Quarto
 
-- refer back to the original plan while you are working
-- keep track of high-level changes in structure (e.g. role switching, elective modifications)
+Your literature dissection will be evaluated on:
 
-Note:
+- your clear and detailed description of seasonal or annual changes in the **Photo documentation** section
+- the correct identification of a report or poster that is relevant to your project along with the dataset that likely underlies that report or poster in the **Reports or posters** section
+- the detail and connection you make between peer-reviewed articles and your project in the **Annotated bibliography section**
+- the presentation (i.e. formatting) of your final document
 
-- your project proposal is subject to change after you learn more about your datasets and what is possible - allow yourselves the flexibility to make adjustments as needed
-- the more detail you can provide in your proposal, the more thorough your feedback will be
+# What you will turn in on Friday the 29th
 
-## Group members
+You will turn in a **link to the GitHub repo you created using this repo as a template**.
 
-Sofia Favela, Nina Cutner, Kelsey Hammond
+By the time you turn in your assignment, you should have edited this README (i.e. deleted all the existing text) to include the sections that you should have in a README.
 
-## Group name (optional): 
+Additionally, you should have edited the `template.qmd` such that all directions are taken out. The only content should be headers and the information you are expected to provide.
 
-The Geese 
+# Databases to be familiar with
 
-## Topic information and question
-
-**Topic: Bird abundance and precipitation patterns at North Campus Open Space (NCOS)
-
-**Question(s):**  
-
-- What are the effects of precipitation on bird abundance?
-- How does precipitation influence waterfowl abundance through time at NCOS?
-- Are there seasonal patterns between precipitation and waterfowl abundance?
-
-**Response variable(s)**
-
-- Waterfowl abundance
-- Species abundance counts
-- Seasonal abundance trends
-
-## Datasets
-
-- birds.csv
-- NOAA_daily_summaries.csv
-
-## Figures
-
-**Potential figure 1:**
-
-Monthly precipitation through time.
-
-![Monthly precipitation](figures/monthly-precipitation.png)
-
-**Potential figure 2:**
-
-Monthly waterfowl abundance through time by species.
-
-![Waterfowl abundance](figures/waterfowl-abundance.png)
-
-**Potential figure 3:**
-
-Relationship between previous month's precipitation and total monthly waterfowl abundance.
-
-![Precipitation abundance relationship](figures/precipitation-abundance.png)
-
-## Data cleaning/wrangling/summarizing plan
-
-### Bird data (`birds.csv`)
-
-- Convert observation dates using `lubridate`
-- Filter data to only include observations classified as `"Waterfowl"`
-- Remove repeat observations
-- Filter observations to water years 2020–2025
-- Aggregate abundance counts by month and species
-- Create summarized monthly and seasonal abundance data sets
-
-### Weather data (`NOAA_daily_summaries.csv`)
-
-- Convert weather observation dates using `lubridate`
-- Filter observations to water years 2020–2025
-- Calculate total monthly precipitation values
-- Create seasonal precipitation summaries
-
-### Combined analysis
-
-- Join summarized precipitation and abundance data by month
-- Create lagged precipitation variables to compare previous-month precipitation with current-month bird abundance
-- Create seasonal summaries to compare long-term seasonal trends in abundance and precipitation
-
-## Project roles
-
-**Natural history/framing director:**
-
-Kelsey Hammond
-
-**Stats and visualization director**
-
-Nina Cutner
-
-**GitHub/code director**
-
-Sofia Favela 
-
-## Elective (not required for all groups or group members)
-
-**Group members completing elective:**
-
-Kelsey, Nina, and Sofia
-
-**Elective idea:**
-
-Create a digital interpretive trail sign/informational pamphlet on Canva to display to potential trail visitors when the best time of year would be to see waterfowl.
-
-**Elective timeline (what you will have completed each week):**
-
-Week 7: Brain storm elective and plan out idea/execution.
-
-Week 8 (timeline check in): Create a rough draft sketch of interpretive sign. Begin to gather potential pictures and sign descriptions.
-
-Week 9: Begin assembling pictures, figures, and layout in Canva.
-
-Week 10: Finalize visualizations in order to create a story for the interpretive sign (i.e. when is the best time of year to view waterfowl). Assmeble entire interpretive sign and complete final edits for submission.
-
-Finals week: Submit elective.    
-
-
-=======
-
-
-
-
-
-
-
+- eScholarship, specifically for the [Cheadle Center](https://escholarship.org/uc/ccber)
+- Google Scholar
