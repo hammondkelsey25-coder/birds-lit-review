@@ -143,43 +143,43 @@ Relevance to study (2-4 sentences):
 
 ### Paper 5
 
-Title:
+Title: Projected Impacts of Climate, Urbanization, Water Management, and Wetland Restoration on Waterbird Habitat in California’s Central Valley
 
-Authors:
+Authors: Elliot L. Matchett, Joseph P. Fleskes
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Climate change, urbanization, and changes in water management are likely to reduce waterbird habitat in California’s Central Valley over the coming decades. Planned wetland restoration can offset many of these losses through about 2065, but it becomes insufficient under most future scenarios after that point. The greatest habitat declines occur under warmer, drier climate conditions combined with reduced water availability, suggesting that additional wetland restoration and climate adaptation strategies will be needed to support waterbird populations in the future.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): It directly links precipitation/climate change and wetland restoration to waterbird habitat in California. Finds that warmer, drier conditions significantly reduce waterbird habitat area. 
 
 ### Paper 6
 
-Title:
+Title: Wintering waterfowl respond to Wetlands Reserve Program lands in the Central Valley of California
 
-Authors:
+Authors: Jeffrey J. Buler, Wylie C. Barrow, Lori A. Randall
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Wetland restoration in California’s Central Valley greatly increased waterfowl use, and these benefits lasted for at least eight years after restoration. Restored wetlands were most successful when located near flooded rice fields and in areas with high existing waterfowl populations. The study concludes that additional wetland restoration is needed to meet conservation goals and support wintering waterfowl populations.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Waterfowl use of restored wetlands increased dramatically post-restoration, and use of flooded areas during wetter winters nearly tripled. This directly connecting precipitation levels to waterfowl presence at restored sites.
 
 ### Paper 7
 
-Title:
+Title: The Impact of Drought on Waterbirds and Their Wetland Habitats in California’s Central Valley
 
-Authors:
+Authors: Climate Adaptation Science Centers
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): The study found that wintering waterfowl responded strongly to restored Wetlands Reserve Program sites, with bird use increasing substantially after restoration and remaining high for years. Restored wetlands were especially effective when located near flooded rice fields and in areas with high existing waterfowl abundance. These results suggest that wetland restoration is an effective strategy for increasing waterfowl habitat in California’s Central Valley.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): It evaluates how drought affects waterbird distribution, abundance, and wetland habitat timing in California. This closely mirrors our study's question.
 
 ### Paper 8
 
-Title:
+Title: Waterfowl–habitat associations during winter in an urban North Atlantic estuary
 
-Authors:
+Authors: Richard A. McKinney, Scott R. McWilliams, Michael A. Charpentier
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): The study found that wintering waterfowl were generally more abundant in areas with more surrounding vegetated upland habitat and less nearby residential development. Hunting activity also reduced species richness, while habitat and landscape characteristics together influenced where waterfowl were most likely to occur. These findings suggest that both local habitat conditions and broader landscape development patterns are important for waterfowl conservation in urban estuaries.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): It examines factors affecting waterfowl abundance and species richness at an estuarine site. This provides a similar coastal wetland context to NCOS and finds that habitat characteristics and landscape composition are key drivers.
 
 ### Paper 9
 
