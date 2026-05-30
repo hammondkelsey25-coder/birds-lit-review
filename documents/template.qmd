@@ -60,19 +60,19 @@ As a group:
 
 ## Report or poster information
 
-Title:
+Title: Bird Community Analysis Report 1967–2015
 
-Authors:
+Authors: Stahlheber, Karen A
 
-Year published:
+Year published: 2015
 
-Permalink:
+Permalink: https://escholarship.org/uc/item/1sg3v19d
 
-Dataset used (likely):
+Dataset used (likely): birds.csv
 
-Key insights:
+Key insights: This report analyzed nearly 50 years of bird survey data (1967–2014) across wetland and upland habitats in the Goleta area to characterize bird community composition, diversity, abundance, and habitat use patterns. The study found that bird communities differed among habitat types and locations, highlighting the importance of wetland habitat characteristics in shaping local bird abundance and diversity.
 
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.): This report is relevant because it provides long-term baseline data on bird abundance and diversity in local wetland habitats, including areas near North Campus Open Space. Understanding historical patterns in waterbird communities helps place any observed relationships between precipitation and waterfowl abundance into a broader ecological context.
 
 # Annotated bibliography
 
@@ -165,7 +165,7 @@ Relevance to study (2-4 sentences): This study is relevant because it demonstrat
 
 Title: The Impact of Drought on Waterbirds and Their Wetland Habitats in California’s Central Valley
 
-Authors: Climate Adaptation Science Centers
+Authors: Joseph Fleskes, Matthew Reiter
 
 Main findings (2-4 sentences): The study found that wintering waterfowl responded strongly to restored Wetlands Reserve Program sites, with bird use increasing substantially after restoration and remaining high for years. Restored wetlands were especially effective when located near flooded rice fields and in areas with high existing waterfowl abundance. These results suggest that wetland restoration is an effective strategy for increasing waterfowl habitat in California’s Central Valley.
 
