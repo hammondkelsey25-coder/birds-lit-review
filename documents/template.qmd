@@ -143,7 +143,17 @@ Authors: Robert J Fletcher, Jr. Rolf R Koford
 
 Main findings: During dry years, yellow headed blackbirds, showed a marked reduction in density and a complete reproductive failure. The failure was attributed primarily to nest predation which was negatively correlated with water levels in wetlands. [@fletcherjr.2004]
 
-Relevance to study: This paper is directly relevant to our own study because it is similiarly analyzing how rainfall variation can affect wetland bird demography. Rain is also being used to study population dynamics which is mirrors our own research.
+Relevance to study: This paper is directly relevant to our own study because it is similarly analyzing how rainfall variation can affect wetland bird demography. Rain is also being used to study population dynamics which is mirrors our own research.
+
+### Paper 11
+
+Title: Waterfowl use of wetland habitats informs wetland restoration designs for multi-species benefits
+
+Authors: Michael L. Casazza, Fiona McDuie, Scott Jones, Austen A. Lorenz, Cory T. Overton, Julie Yee, Cliff L. Feldheim, Joshua T. Ackerman, Karen M. Thorne
+
+Main findings: They found that at the Suisun Marsh on the San Francisco Bay Estuary, managed wetlands were selected over tidal marshes with median daily use at \>88% vs. \~0%. The dabbling duck species studied only chose tidal marshes when habitat availability was reduced at managed wetlands. [@casazza2021]
+
+Relevance to study: This is relevant to our study because the species they are focused on are common in our data. It is also relevant because NCOS is a managed wetland and the paper found that dabbling ducks (part of waterfowl), prefer managed wetlands.
 
 ### Paper 12
 
