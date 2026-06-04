@@ -8,7 +8,7 @@ This section includes multiple photos throughout water year 2024 showing changes
 
 ## Reports
 
-Here you can find a relevant report from the Cheadle Center's eScholarship page.
+Here you can find a relevant report from the Cheadle Center's eScholarship page. It includes information about the report as well as the main findings and relevance to our study.
 
 ## Annotated Bibliography
 

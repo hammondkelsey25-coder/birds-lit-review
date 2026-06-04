@@ -41,7 +41,7 @@ Dataset used (likely): `birds.csv`
 
 Key insights: This report analyzed nearly 50 years of bird survey data (1967–2014) across wetland and upland habitats in the Goleta area to characterize bird community composition, diversity, abundance, and habitat use patterns. The study found that bird communities differed among habitat types and locations, highlighting the importance of wetland habitat characteristics in shaping local bird abundance and diversity.
 
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.): This report is relevant because it provides long-term baseline data on bird abundance and diversity in local wetland habitats, including areas near North Campus Open Space. Understanding historical patterns in waterbird communities helps place any observed relationships between precipitation and waterfowl abundance into a broader ecological context.
+Relevance to your study: This report is relevant because it provides long-term baseline data on bird abundance and diversity in local wetland habitats, including areas near North Campus Open Space. Understanding historical patterns in waterbird communities helps place any observed relationships between precipitation and waterfowl abundance into a broader ecological context.
 
 # Annotated bibliography
 
