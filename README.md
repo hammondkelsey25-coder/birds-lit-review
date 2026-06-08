@@ -15,4 +15,4 @@ precipitation and waterfowl abundance at NCOS.
 ## Annotated Bibliography
 
 This section includes twelve peer-reviewed  scientific papers and their citations relevant to our study. Each entry includes a citation, a summary of the paper's 
-findings and an explanation of it's connection to or own research.
+findings and an explanation of it's connection to our own research.
